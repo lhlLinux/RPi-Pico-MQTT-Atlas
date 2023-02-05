@@ -2,7 +2,7 @@
 
 Les trois répertoires représentent ma partie du code pour un projet final. Il s'agit essentiellement d'une preuve de concept pour un réseau de capteurs, envoyant leur données vers un nuage pour stocker les données (sur une certaine période), soit pour un historique, consultation en temps réel, ou analyses.
 
-L'autre partie du projet (non disponible) est une site utilisant les services *Steamlit* pour permettre de visualiser les données sur un site web, que ce soit en temps réel ou non. Le site permet de choisir les bases de données, spécifier la période de temps, la fréquence de mise-à-jour ainsi que de choisir les capteurs ou nœuds que l'on désire visualiser.
+L'autre partie du projet (non disponible) est un site utilisant les services *Steamlit* pour permettre de visualiser les données sur un site web, que ce soit en temps réel ou non. Le site permet de choisir les bases de données, spécifier la période de temps, la fréquence de mise-à-jour ainsi que de choisir les capteurs ou nœuds que l'on désire visualiser.
 
 
 #### Description des répertoires
